@@ -41,16 +41,12 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 350px;
-    border-radius: 5px;
-}
-
-.block {
-    padding: 20px;
+    width: 300px;
+    border-radius: 15px;
+     padding: 20px;
     margin: 0 auto;
     background-color: #fff;
 }
-
 
 /*Box*/
 
@@ -59,7 +55,7 @@ body {
 }
 
 .box img {
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .box h3 {
