@@ -67,6 +67,7 @@ body {
 .box p {
     font-size: 15px;
     color: hsl(220, 15%, 55%)
+        padding-bottom: 20px;
 }
 
 @media (max-width:578px) {
